@@ -73,7 +73,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VMware Workstation Pro](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 
 #### Tools Cyber Security
 
@@ -85,7 +85,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)&nbsp;
-
+![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
