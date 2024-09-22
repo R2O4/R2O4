@@ -1,9 +1,21 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGYxd2RrNy1mYTYyZDViNi1hMWIyLTRiMmItYjQwNy0wMmU3Mzc0NzYxNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mLCZ3Vy_z29MbBgLUgiJIocq4NNs0o-pr276Ju8hAtA)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm R2O4</h1>
+
+<p align='center'>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=1000&height=75&lines=I'm+R2O4+SOC+Tier+1;Computer+Engineering+Cyber+Security+Student;Projects;%40R2O4">
+</p>
+
+<p align='center'>
+    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+<hr>
+
 <h3 align="center">A Security Operations Center Tier 1 from Viet Nam</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=R2O4&label=Profile%20views&color=0e75b6&style=flat" alt="R2O4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=R2O4&label=Profile%20views&color=0e75b6&style=flat" alt="R2O4" /> <img src="https://img.shields.io/github/followers/R2O4?style=social" alt="R2O4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Nhac_Vu24" target="blank"><img src="https://img.shields.io/twitter/follow/Nhac_Vu24?logo=twitter&style=for-the-badge" alt="Nhac_Vu24"  </p>
 
