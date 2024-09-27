@@ -122,7 +122,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R2O4&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=R2O4&theme=onedark)](https://github.com/R2O4/github-profile-trophy)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
