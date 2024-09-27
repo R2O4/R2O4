@@ -19,8 +19,6 @@
     <img src="https://komarev.com/ghpvc/?username=R2O4&label=Profile%20views&color=0e75b6&style=flat" alt="R2O4" /> 
     <img src="https://img.shields.io/github/followers/R2O4?style=social" alt="R2O4" />  
     <img src="https://img.shields.io/github/stars/R2O4?style=social" alt="R2O4" />
-    <img src="https://img.shields.io/github/watchers/R2O4?style=social" alt="R2O4" />
-
 </p>
 
 <p align="left"> <a href="https://twitter.com/Nhac_Vu24" target="blank"><img src="https://img.shields.io/twitter/follow/Nhac_Vu24?logo=twitter&style=for-the-badge" alt="Nhac_Vu24"  </p>
