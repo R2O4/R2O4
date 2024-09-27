@@ -11,7 +11,7 @@
 </p>
 <hr>
 
-<h3 align="center">A Security Operations Center Tier 1 from Viet Nam</h3>
+<h3 align="center">A Security Operations Center from Viet Nam</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
